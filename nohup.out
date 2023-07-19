@@ -1,0 +1,90 @@
+[I 21:25:17.645 NotebookApp] Serving notebooks from local directory: /Users/cwhoaon/workspace/ML_workspace
+[I 21:25:17.645 NotebookApp] Jupyter Notebook 6.5.4 is running at:
+[I 21:25:17.645 NotebookApp] http://Chanwoo-Laptop.local:8888/?token=ee36f5f1df1b9bb65182f58ccefc668b0959b64291981301
+[I 21:25:17.645 NotebookApp]  or http://127.0.0.1:8888/?token=ee36f5f1df1b9bb65182f58ccefc668b0959b64291981301
+[I 21:25:17.646 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 21:25:17.648 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/cwhoaon/Library/Jupyter/runtime/nbserver-6042-open.html
+    Or copy and paste one of these URLs:
+        http://Chanwoo-Laptop.local:8888/?token=ee36f5f1df1b9bb65182f58ccefc668b0959b64291981301
+     or http://127.0.0.1:8888/?token=ee36f5f1df1b9bb65182f58ccefc668b0959b64291981301
+[W 21:25:18.742 NotebookApp] 404 GET /api/contents/workspace/ML_workspace?type=directory&_=1689418927480 (223.39.251.99): file or directory does not exist: 'workspace/ML_workspace'
+[W 21:25:18.743 NotebookApp] file or directory does not exist: 'workspace/ML_workspace'
+[W 21:25:18.743 NotebookApp] 404 GET /api/contents/workspace/ML_workspace?type=directory&_=1689418927480 (223.39.251.99) 2.640000ms referer=http://222.235.87.197:8888/tree/workspace/ML_workspace
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[W 21:25:21.272 NotebookApp] 404 GET /api/contents/workspace?type=directory&_=1689418927481 (223.39.251.99): file or directory does not exist: 'workspace'
+[W 21:25:21.273 NotebookApp] file or directory does not exist: 'workspace'
+[W 21:25:21.273 NotebookApp] 404 GET /api/contents/workspace?type=directory&_=1689418927481 (223.39.251.99) 2.680000ms referer=http://222.235.87.197:8888/tree/workspace
+[W 21:25:22.654 NotebookApp] 404 GET /tree/workspace (223.39.251.99) 17.670000ms referer=None
+[W 21:25:24.478 NotebookApp] 404 GET /tree/workspace (223.39.251.99) 3.910000ms referer=None
+[W 21:25:25.446 NotebookApp] 404 GET /tree/workspace (223.39.251.99) 3.240000ms referer=None
+[I 21:26:12.391 NotebookApp] Creating new notebook in 
+[W 21:26:13.268 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (223.39.251.99) 2.660000ms referer=http://222.235.87.197:8888/notebooks/Untitled.ipynb?kernel_name=python3
+[I 21:26:13.370 NotebookApp] Kernel started: f48a8d79-f9be-4e90-a0c6-ea6d24de9e08, name: python3
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[W 21:26:20.401 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (223.39.251.99) 2.650000ms referer=http://222.235.87.197:8888/notebooks/Untitled.ipynb
+[I 21:26:22.504 NotebookApp] Starting buffering for f48a8d79-f9be-4e90-a0c6-ea6d24de9e08:e1e980405c48467fb82e4088b4e3bba6
+[W 21:27:13.185 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (223.39.251.99) 2.760000ms referer=http://222.235.87.197:8888/notebooks/decision_tree.ipynb
+[I 21:27:13.804 NotebookApp] Kernel started: bf217ddf-b5ff-49d1-a96c-ecbb0b37f794, name: python3
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 21:29:13.700 NotebookApp] Saving file at /decision_tree.ipynb
+/opt/homebrew/lib/python3.11/site-packages/nbformat/__init__.py:129: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate(nb)
+/opt/homebrew/lib/python3.11/site-packages/notebook/services/contents/manager.py:353: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate_nb(model['content'])
+[I 21:33:44.641 NotebookApp] Starting buffering for bf217ddf-b5ff-49d1-a96c-ecbb0b37f794:488ed09b91cf416d8058c9f21d83dc1b
+[W 04:22:16.784 NotebookApp] 404 GET http://pingjs.qq.com/ping.js (185.216.140.186) 3.770000ms referer=None
+[I 08:11:34.888 NotebookApp] 302 GET / (167.94.138.124) 1.010000ms
+[I 08:11:35.245 NotebookApp] 302 GET / (167.94.138.124) 0.640000ms
+[I 08:11:35.608 NotebookApp] Malformed HTTP message from 167.94.138.124: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 08:11:35.996 NotebookApp] 302 GET /tree (167.94.138.124) 1.580000ms
+[I 08:11:36.342 NotebookApp] Malformed HTTP message from 167.94.138.124: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 08:11:37.243 NotebookApp] Malformed HTTP message from 167.94.138.124: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[W 10:45:28.645 NotebookApp] 404 GET /image/lgbg.jpg (103.118.244.249) 2.660000ms referer=None
+[W 10:45:28.805 NotebookApp] 404 GET /skin/default_1/images/logo.png (103.118.244.249) 1.940000ms referer=None
+[I 10:45:28.957 NotebookApp] 302 GET / (103.118.244.249) 0.650000ms
+[I 10:45:29.125 NotebookApp] 302 GET /tree (103.118.244.249) 0.980000ms
+[W 10:45:29.410 NotebookApp] 404 GET /login.rsp (103.118.244.249) 2.330000ms referer=None
+[I 10:52:36.585 NotebookApp] 302 GET / (167.248.133.51) 1.030000ms
+[I 10:52:36.925 NotebookApp] 302 GET / (167.248.133.51) 0.630000ms
+[I 10:52:37.272 NotebookApp] Malformed HTTP message from 167.248.133.51: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 10:52:37.653 NotebookApp] 302 GET /tree (167.248.133.51) 1.040000ms
+[I 10:52:38.005 NotebookApp] Malformed HTTP message from 167.248.133.51: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 10:52:38.700 NotebookApp] Malformed HTTP message from 167.248.133.51: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 16:20:35.061 NotebookApp] 302 GET / (91.204.226.48) 1.080000ms
+[I 16:20:35.357 NotebookApp] 302 GET / (103.80.134.226) 0.620000ms
+[I 16:20:35.373 NotebookApp] 302 GET /tree? (103.80.134.226) 0.900000ms
+[W 16:20:35.509 NotebookApp] 404 GET /status.asp (103.80.134.226) 2.000000ms referer=None
+[W 16:20:35.531 NotebookApp] 404 GET /status.asp (103.80.134.226) 1.910000ms referer=None
+[W 16:20:35.553 NotebookApp] 404 GET /status.asp (103.80.134.226) 1.900000ms referer=None
+[W 16:20:35.577 NotebookApp] 404 GET /w/home.asp (103.80.134.226) 1.800000ms referer=None
+[W 16:20:35.666 NotebookApp] 404 GET /index.htm (103.80.134.226) 1.860000ms referer=None
+[W 16:20:35.700 NotebookApp] 404 GET /index.htm (103.80.134.226) 1.760000ms referer=None
+[W 16:20:35.720 NotebookApp] 404 GET /frame.cmo (103.80.134.226) 2.670000ms referer=None
+[W 16:20:35.743 NotebookApp] 404 GET /title_bar.html (103.80.134.226) 1.870000ms referer=None
+[I 17:56:41.982 NotebookApp] Restoring connection for bf217ddf-b5ff-49d1-a96c-ecbb0b37f794:488ed09b91cf416d8058c9f21d83dc1b
+[I 17:57:15.289 NotebookApp] Starting buffering for bf217ddf-b5ff-49d1-a96c-ecbb0b37f794:488ed09b91cf416d8058c9f21d83dc1b
+[I 19:32:15.970 NotebookApp] Malformed HTTP message from 198.199.114.78: no colon in header line
+[I 21:23:05.345 NotebookApp] Restoring connection for bf217ddf-b5ff-49d1-a96c-ecbb0b37f794:488ed09b91cf416d8058c9f21d83dc1b
+[I 21:25:04.362 NotebookApp] Saving file at /decision_tree.ipynb
+[I 21:27:04.360 NotebookApp] Saving file at /decision_tree.ipynb
+[I 21:29:04.532 NotebookApp] Saving file at /decision_tree.ipynb
+[I 21:31:04.503 NotebookApp] Saving file at /decision_tree.ipynb
+[I 21:33:04.377 NotebookApp] Saving file at /decision_tree.ipynb
+[I 21:35:04.451 NotebookApp] Saving file at /decision_tree.ipynb
+[I 21:37:04.434 NotebookApp] Saving file at /decision_tree.ipynb
+[I 21:39:04.603 NotebookApp] Saving file at /decision_tree.ipynb
+[I 21:41:04.843 NotebookApp] Saving file at /decision_tree.ipynb
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
